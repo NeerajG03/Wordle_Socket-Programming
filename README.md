@@ -11,9 +11,12 @@ To play the game you will need the following dependencies to be installed:
 <br>
 <i>Guess what you are all setup now, Its time to enjoy!</i>
 <br>
-Steps to run:
-* Run the server python file
-* Run the game.ipynb file on the player system and you are all set and read to play
-**Remember to be on the same Network as this game is socket based**
+Steps to run:<br>
+<ol>
+  <li>Run the server python file</li>
+  <li>Run the game.ipynb file on the player system and you are all set and read to play</li>
+</ol>
+
+<i>Remember to be on the same Network as this game is socket based</i>
 <br>
 <i><b>Have Fun!</b></i>
