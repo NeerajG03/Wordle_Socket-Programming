@@ -16,4 +16,4 @@ Steps to run:
 - Run the game.ipynb file on the player system and you are all set and read to play
 **Remember to be on the same Network as this game is socket based**
 <br>
-<b>**Have Fun!**</b>
+<i><b>Have Fun!</b></i>
